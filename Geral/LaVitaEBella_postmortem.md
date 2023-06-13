@@ -1,5 +1,7 @@
 # Postmortem 
 
+  ![Cover](LaVittaEBella.jpg)
+
 -  Desde início que tivemos problemas, não só com game design, arte e unity mas 
 também com os próprios membros que não se mostravam interessados em fazer o 
 projeto.
