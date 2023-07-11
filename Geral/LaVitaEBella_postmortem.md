@@ -26,11 +26,11 @@ do grupo iriam tratar da maioria da arte (cenários e personagens, incluindo as
 animações das mesmas) e que eu iria ajudar o João com a programação e faria a 
 arte para o ui do jogo.
 
-- Em chegando à segunda entrega percebemos que não podíamos contar com os 
+- Chegando à segunda entrega percebemos que não podíamos contar com os 
 colegas e tivemos de usar a arte que tínhamos feito nas aulas de game art e a 
-partir daí defini com o João que ele iria tratar de programação e Unity e eu 
-faria toda a arte do jogo e restantes documentos relativos à entrega final 
-(GDD, pitch, etc...).
+partir daí defini com o João Carvalho que ele iria tratar de programação e Unity, eu 
+faria toda a arte do jogo e o João Ribeiro faria os restantes documentos relativos 
+à entrega final (GDD, pitch, etc...).
 
 - repensei todo o estilo de arte que tinha feito até então nas aulas de game 
 art e comecei a refazer tudo de novo de modo a que o nosso jogo por mais simples
@@ -38,3 +38,18 @@ art e comecei a refazer tudo de novo de modo a que o nosso jogo por mais simples
  cada cenário se relacionassem ao filme também.
  
 		----- Vitor Daniel, nº 22204782
+
+- Neste projeto fui incluído num grupo que estaria a ter problemas devido á falta
+de membros no mesmo e foi me encarregue de ajudar com a parte de documentação do
+projeto GDD, apresentação, etc...
+
+- Para isso tive que atulizar os documentos com a nova informação que tivemos
+e mudar o seu conteudo respetivamnete para a nova versão fazendo alterações 
+tendo em conta as novas informações e o feedback dado pelo professor Diogo,
+após as apresentações no semestre.
+
+- Na parte do GDD uzei conchecimentos obtidos nas aulas de Game Desgin e explorei 
+o nosso conceito para o jogo de modo a formar um documento especifico e claro o
+suficiente para passar a informação pretendida .
+ 
+		----- João Ribeiro, nº 22204593
