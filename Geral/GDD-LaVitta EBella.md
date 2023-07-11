@@ -32,8 +32,8 @@ apanhado pelos soldados/generais no campo.
 
 - Publico alvo :
 	-  adolescentes de faixa etária de entre os 16 a 24 anos, com potenciais conhecimentos históricos e sociais,que se 
-	interessem por história e os acontecimentos acontecidos na mesma e que prentendam um estilo de jogo simples e não 
-	competitivo em formato platformer side scroller;
+	interessem por história e os acontecimentos da mesma e que prentendam um estilo de jogo simples e não 
+	competitivo em formato platformer side scroller de cooperação;
 
 -Estética :
 	- 2ª Guerra Mundial com mood "dark", devido à história escondida por trás, focando-se na tentativa de salvação do
@@ -41,7 +41,7 @@ apanhado pelos soldados/generais no campo.
 
 
 - Género :
-	- A arte do jogo é fetia usando pixel art 2d e consiste em um platformer side scroller com pensamento em survival.
+	- A arte do jogo é feita usando pixel art 2d e consiste em um platformer side scroller com pensamento em survival.
 
 - Monetização :
 	-  Stand-alone product, 1 purchase only sem dlc para ser adicionadas.
@@ -53,7 +53,7 @@ apanhado pelos soldados/generais no campo.
 
 - Saltar;
 - Andar / Correr;
-- Empurrar caixas;
+- Empurrar objetos;
 - Saltar para cima de personagens (filho usa pai como plataforma móvel ou 
 								  um boost);
 
