@@ -43,12 +43,12 @@ art e comecei a refazer tudo de novo de modo a que o nosso jogo por mais simples
 de membros no mesmo e foi me encarregue de ajudar com a parte de documentação do
 projeto GDD, apresentação, etc...
 
-- Para isso tive que atulizar os documentos com a nova informação que tivemos
-e mudar o seu conteudo respetivamnete para a nova versão fazendo alterações 
+- Para isso tive que atualizar os documentos com a nova informação que tivemos
+e mudar o seu conteúdo respetivamnete para a nova versão fazendo alterações 
 tendo em conta as novas informações e o feedback dado pelo professor Diogo,
 após as apresentações no semestre.
 
-- Na parte do GDD uzei conchecimentos obtidos nas aulas de Game Desgin e explorei 
+- Na parte do GDD usei conchecimentos obtidos nas aulas de Game Design e explorei 
 o nosso conceito para o jogo de modo a formar um documento especifico e claro o
 suficiente para passar a informação pretendida .
  
