@@ -9,7 +9,7 @@
 
 ## Pitch :
 - Platformer 2d em que consiste em controlar o pai **e** o filho para interagir
-com o nível e poder cumprir objetivos (coletar itens, passar por guardas sem 
+com o nível e poder cumprir objetivos (pegar itens, passar por guardas sem 
 ser apanhado, etc).
 
 
@@ -20,24 +20,26 @@ ser apanhado, etc).
 filho são separados da mãe e do avô.
 ●
 Devido a este desenvolvimento o pai vê se obrigado a fingir que tudo existe como uma brincadeira, de modo a proteger a
-inocência do filho usando formas de fazer passar a situação meramente como um jogo influênciando o filho a esconder-se
+inocência do filho usando formas de fazer passar a situação meramente como um jogo, influênciando o filho a esconder-se
 até ao fim.
 
 - O jogo pega na ação central do filme (quando o pai e o filho já se encontram 
 no campo a “jogar” às escondidas).
-- Este jogo é de plataformas no qual o objetivo e chegar ao fim do nível sem ser
+- Este jogo é de plataformas no qual o objetivo é chegar ao fim do nível sem ser
 apanhado pelos soldados/generais no campo.
 
 ## Produto/Unique Selling Point (USP):
 
 - Publico alvo :
 	-  adolescentes de faixa etária de entre os 16 a 24 anos, com potenciais conhecimentos históricos e sociais,que se 
-	interessem por história e os acontecimentos da mesma e que prentendam um estilo de jogo simples e não 
-	competitivo em formato platformer side scroller de cooperação;
+	interessem por história e os acontecimentos da mesma.
+	
+- Game loop style :
+	- estilo de jogo simples e não competitivo em formato platformer side scroller de cooperação.
 
--Estética :
+- Estética :
 	- 2ª Guerra Mundial com mood "dark", devido à história escondida por trás, focando-se na tentativa de salvação do
-	pai ao filho e de modo discreto de modo a aplicar a história do filme.
+	pai ao filho, e de modo discreto, aplicar a história do filme.
 
 
 - Género :
@@ -61,6 +63,9 @@ apanhado pelos soldados/generais no campo.
 
 - Progredir até ao final do mapa sem ser apanhado ou morrer usando o ambiente do mapa e levando a que o jogador aplique
 uma estratégia para ser eficaz na progressao do mesmo.
+
+## Dilema dinâmico:
+- Usar a cooperação pai-filho de modo eficaz para facilitar a progressão do mapa.
 
 ## Lista de assets:
 - Toda a arte e desenhada pelo grupo.
