@@ -21,7 +21,9 @@ jeito que davam no momento.
 
 - (Recurso)
 
-- 
+- Ajudei os meus colegas a entender o código que eu fiz antes da época de recurso, tratei 
+de arranjar o powerpoint para a apresentação tendo em conta o feedback que o 
+Professor Diogo nos deu e pôr a par do jogo o nosso colega mais recente.
 
 		----- João Carvalho, nº 22204909
 
